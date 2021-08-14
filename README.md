@@ -34,9 +34,6 @@
 </br>
 </br>
 
-[youtube]: https://youtube.com/channel/UCeK0PaY9XMLbru-dHuyrBew
-[linkedin]: https://linkedin.com/in/luben-lubenov/
-
 ---
 
 ### :zap: Recent Activity:
@@ -48,3 +45,8 @@
 4. 💪 Opened PR [#2859](https://github.com/webpack/webpack-cli/pull/2859) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 5. 🗣 Commented on [#2832](https://github.com/webpack/webpack-cli/issues/2832) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
+
+### Contact me:
+
+[youtube]: https://youtube.com/channel/UCeK0PaY9XMLbru-dHuyrBew
+[linkedin]: https://linkedin.com/in/luben-lubenov/
