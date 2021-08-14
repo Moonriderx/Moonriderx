@@ -41,8 +41,6 @@
 
 ### :zap: Recent Activity:
 
-### :zap: Recent Activity
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/cli-prompts-test/pull/10) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
 2. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/scaffold-static/pull/38) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
