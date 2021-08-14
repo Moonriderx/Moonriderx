@@ -1,6 +1,6 @@
-### Hi there, I am Luben, AKA Moonriderx
+## Hi there, I am Luben, AKA Moonriderx
 
-## I'm a passionate programmer willing to learn every day!
+### I'm a passionate programmer willing to learn every day!
 
 - 🔭 I’m currently working in @SoftUni
 - 🌱 I’m currently learning making 2D/3D Games (and not only ;))
