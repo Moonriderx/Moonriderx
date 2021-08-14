@@ -48,5 +48,5 @@
 
 ### Contact me:
 
-[youtube]: https://youtube.com/channel/UCeK0PaY9XMLbru-dHuyrBew
-[linkedin]: https://linkedin.com/in/luben-lubenov/
+[youtube](https://youtube.com/channel/UCeK0PaY9XMLbru-dHuyrBew)
+[linkedin](https://linkedin.com/in/luben-lubenov/)
