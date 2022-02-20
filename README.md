@@ -1,4 +1,4 @@
-## Hi there, I am Luben, AKA Moonrider
+## Hi there, I am Luben.
 
 ### I'm a passionate programmer willing to learn every day!
 
