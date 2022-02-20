@@ -3,9 +3,9 @@
 ### I'm a passionate programmer willing to learn every day!
 
 - 🔭 I’m currently working at @SoftUni.
-- 🌱 I’m currently learning making 2D/3D Games ( and not only ;) ).
+- 🌱 I’m currently learning how to make 2D/3D Games ( and not only ;) ).
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects and upgrade my coding skills!
+- 🥅 2022 Goals: Contribute more to Open Source projects and upgrade my coding skills!
 
 ---
 
