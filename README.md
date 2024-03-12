@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a Business Development Director at @SoftUni Global.
 - 🌱 I’m currently learning how to make 2D/3D Games ( and not only ;) ).
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Contribute more to Open Source projects and upgrade my coding skills!
+- 🥅 2024 Goals: Contribute more to Open Source projects and upgrade my coding skills!
 
 ---
 
